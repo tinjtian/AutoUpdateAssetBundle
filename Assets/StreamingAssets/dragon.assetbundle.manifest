@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 2781851870
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e7bd583c69949604dffa11de0745bed5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: fa585f25c6a66f998a7dc40f9a7d935f
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Death.prefab
+Dependencies: []

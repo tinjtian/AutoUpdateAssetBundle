@@ -1,0 +1,12 @@
+ManifestFileVersion: 0
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: cube.assetbundle
+      Dependencies: {}
+    Info_1:
+      Name: testscene.assetbundle
+      Dependencies: {}
+    Info_2:
+      Name: dragon.assetbundle
+      Dependencies: {}

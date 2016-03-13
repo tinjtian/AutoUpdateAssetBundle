@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoUpdateAssetBundle.CSharp", "AutoUpdateAssetBundle.CSharp.csproj", "{2B6BD193-5826-DF65-A7B7-2939AF6399DA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoUpdateAssetBundle.CSharp.Editor", "AutoUpdateAssetBundle.CSharp.Editor.csproj", "{2C318E2E-BE39-D0DA-6692-A6B7E3276F86}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2B6BD193-5826-DF65-A7B7-2939AF6399DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B6BD193-5826-DF65-A7B7-2939AF6399DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B6BD193-5826-DF65-A7B7-2939AF6399DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B6BD193-5826-DF65-A7B7-2939AF6399DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C318E2E-BE39-D0DA-6692-A6B7E3276F86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C318E2E-BE39-D0DA-6692-A6B7E3276F86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C318E2E-BE39-D0DA-6692-A6B7E3276F86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C318E2E-BE39-D0DA-6692-A6B7E3276F86}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
